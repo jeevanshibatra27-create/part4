@@ -1,0 +1,3 @@
+Test file created
+Topic 6: Functions help reuse code.
+Topic 7: APIs allow communication between systems.
